@@ -5,10 +5,11 @@
   The link for the youtube video is https://www.youtube.com/watch?v=Ke90Tje7VS0 </p>
  <h2>Installation</h2>
  <ul>
- <li>First in the command prompt write the command create-react-app counter-app.</li
+  <li>First in the command prompt write the command create-react-app counter-app.</li>
   <li>Then download the files present here and copy paste the files to that folder</li>
+ </ul>
  <h3>OR</h3>
  <ul>
 <li>Clone the repository</li>
 <li>npm i </li>
-  </ul>
+</ul>
